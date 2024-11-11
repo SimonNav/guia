@@ -54,4 +54,4 @@ group :development do
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
 
-gem "rspec-rails", "~> 7.0", :groups => [:development, :test]
+gem "rspec-rails", "~> 7.1", :groups => [:development, :test]
